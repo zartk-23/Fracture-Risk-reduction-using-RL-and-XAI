@@ -3,5 +3,9 @@ Fracture risk assessment remains a critical public health challenge, predomi-nan
 
 A Proximal Policy Optimization (PPO) model, trained over 20,000 timesteps, optimized interventions across a 50-week simulation, achieving a 100% mi-cro-trauma reduction (average 13.6 ± 5.2 weeks). Five-fold cross-validation yielded an average validation reward of 2.2875 ± 0.975, affirming robust-ness. SHAP analysis reveals Activity (mean|SHAP| ~0.40) as the primary driver, with Age (0.15) and Micro Trauma (0.10) notable, while Calcium, Sleep, Gender, and Smoking (<0.05) show minimal impact, reflecting the re-ward design. This accessible, interpretable approach outperforms BMD-centric tools like FRAX, with future plans for 200+ participants, clinical tri-als, and mobile deployment.
                                                          
-<img width="1062" height="310" alt="image" src="https://github.com/user-attachments/assets/3ced7629-e503-414a-9a38-13c2726302c8" />
-<img width="965" height="442" alt="image" src="https://github.com/user-attachments/assets/c43f320c-f5a2-440a-859b-bb0bda83c0e1" />
+
+<img width="900" height="442" alt="image" src="https://github.com/user-attachments/assets/c43f320c-f5a2-440a-859b-bb0bda83c0e1" />
+
+<img width="980" height="287" alt="image" src="https://github.com/user-attachments/assets/28300d8e-1e3e-450b-b5b3-3c9fd9f8954b" />
+
+<img width="613" height="322" alt="image" src="https://github.com/user-attachments/assets/75c19ff5-919c-4eea-896f-54c79b6883ec" />
